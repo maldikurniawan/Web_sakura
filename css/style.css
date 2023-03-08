@@ -1,0 +1,200 @@
+body#header{
+    background-image: url('../pictures/pxfuel.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-position-y: -200px;
+}
+
+body#menu{
+    background-color: lightblue;
+}
+
+h3#menu{
+    color: black;
+    font-family: calibri, tahoma, jokerman;
+    text-decoration: none;
+    font-size: 15pt;
+}
+
+p#contact{
+    text-align: center;
+    font-size: 25px;
+    font-family: calibri, tahoma, jokerman;
+    text-decoration: none;
+}
+
+img#contact{
+    width: 30%;
+}
+
+h3#sidebar{
+    font-family: calibri, tahoma, jokerman;
+    border: 2px solid lightcyan;
+    margin: 10px 70px;
+    text-align: center;
+    font-size: 12pt;
+}
+
+body#sidebar{
+    background-image: url('../pictures/pxfuel.jpg');
+    background-repeat: no-repeat;
+    background-size: 600%;
+    background-position: center;
+}
+
+body#iklan{
+    background-image: url('../pictures/pxfuel.jpg');
+    background-repeat: no-repeat;
+    background-size: 600%;
+    background-position: left;
+}
+
+body#home{
+    background-image: url('../pictures/sakura.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: lightcyan;
+    background-position: bottom;
+    background-position-y: -120px;
+}
+
+body#jadwal{
+    background-image: url('../pictures/sakura.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: lightcyan;
+    background-position: bottom;
+    background-position-y: -120px;
+}
+
+body#konten{
+    background-image: url('../pictures/sakura.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: lightcyan;
+    background-position: bottom;
+    background-position-y: -120px;
+}
+
+body#kontak{
+    background-image: url('../pictures/sakura.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: lightcyan;
+    background-position: bottom;
+    background-position-y: -120px;
+}
+
+body#register{
+    background-image: url('../pictures/sakura.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: lightcyan;
+    background-position: bottom;
+    background-position-y: -120px;
+}
+
+p#home{
+    text-align: justify;
+    text-indent: 0cm;
+    /* color: red; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+}
+
+fieldset,legend{ /* grouping */
+    border: lightblue 5px outset;
+    padding: 1px;
+    background-color: lightcyan;
+    color: black;
+}
+
+div#sidebar a:link, a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+.menu a:hover{
+    text-decoration: none;
+    font-size: 20pt;
+    /* border: 2px solid green; */
+    padding: 5px;
+    /* background-color: blue; */
+    margin: 0px 5px;
+    line-height: 0.5cm;
+    color: red;
+}
+
+.sidebar a:hover{
+    text-decoration: none;
+    /* font-size: 20pt; */
+    color: red;
+    /* border: 2px solid green; */
+    padding: 5px;
+    /* background-color: blue; */
+    margin: 0px 5px;
+    line-height: 0.5cm;
+}
+
+.contact a:hover{
+    text-decoration: none;
+    /* font-size: 20pt; */
+    /* background-color: white; */
+    font-weight: bold;
+    color: red;
+    /* border: 2px solid green; */
+    /* padding: 5px; */
+    /* background-color: blue; */
+    /* margin: 0px 5px; */
+    /* line-height: 0.5cm; */
+}
+
+.gambar{
+    width: 90%;
+}
+
+.gambar a:hover{
+    width: 10%;
+    border: 5px;
+    /* text-decoration: none; */
+    /* font-size: 20pt; */
+    /* background-color: white; */
+    /* font-weight: bold; */
+    /* color: red; */
+    /* border: 2px solid green; */
+    /* padding: 5px; */
+    /* background-color: blue; */
+    /* margin: 0px 5px; */
+    /* line-height: 0.5cm; */
+}
+
+h3#menu a:link, a:visited{
+    text-decoration: none;
+    /* border: 2px solid #EB455F;
+    padding: 5px;
+    background-color: #FCFFE7;
+    margin: 0px 5px; */
+}
+
+p.p{
+    font-family: calibri, tahoma, jokerman;
+    background-color: white;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 0cm;
+    color: red;
+    margin: 0px 20px;
+    padding: 10px;
+}
+
+.contact{
+    text-decoration: none;
+}
+
+.header{
+    text-align: center;
+    color: black;
+    font-size: 30pt;
+    margin-top: 35px;
+}
